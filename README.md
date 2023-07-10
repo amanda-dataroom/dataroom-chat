@@ -1,4 +1,4 @@
-# Quivr - Your Second Brain, Empowered by Generative AI
+# Dataroom - Your Second Brain, Empowered by Generative AI
 
 <div align="center">
     <img src="./logo.png" alt="Quivr-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
